@@ -3,7 +3,7 @@
 #
 #
 #
-# shilhang:from tutorial.dpst import input_data_test
+# shilhang:from tutorial.strada import input_data
 # https://github.com/dps-lab
 #
 #
@@ -11,7 +11,7 @@
 #
 #
 """Functions for downloading and reading Style transfer data(to be continued)."""
-# if fail to download, please download the raw data at 'git clone https://github.com/KyeongSeon-Kim/DPST.git'
+# if fail to download, please download the raw data at 'git clone https://github.com/KyeongSeon-Kim/STRADA.git'
 
 import os
 #This is for easy downloading through URL
@@ -19,7 +19,7 @@ import urllib2
 
 DEFAULT_SOURCE_URL = "http://rlar2146.dothome.co.kr/styletransfer/tutorial/datasets/"
 MODIFY_SOURCE_URL = "default"
-# DEFAULT_SOURCE_URL = "http://dpslab.re.kr/DPST/"
+# DEFAULT_SOURCE_URL = "http://dpslab.re.kr/STRADA/"
 
 #Showing the command
 def __help__():

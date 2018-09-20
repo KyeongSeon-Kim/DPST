@@ -14,10 +14,10 @@
 
 """Functions for downloading and reading Style transfer data."""
 
-from tutorial.datasets.dpst import show_label
-from tutorial.datasets.dpst import down_sdata_sets
-from tutorial.datasets.dpst import down_cdata_sets
-from tutorial.datasets.dpst import __help__
+from tutorial.datasets.strada import show_label
+from tutorial.datasets.strada import down_sdata_sets
+from tutorial.datasets.strada import down_cdata_sets
+from tutorial.datasets.strada import __help__
 #from tutorial.datasets.st_atonce import example
 
 """
