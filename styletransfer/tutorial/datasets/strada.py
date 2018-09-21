@@ -24,7 +24,7 @@ MODIFY_SOURCE_URL = "default"
 #Showing the command
 def __help__():
     print("===========================================================")
-    print("DPST has 2 commands below")
+    print("STRADA has 2 commands below")
     print("-----------------------------------------------------------")
     print("")
     print("")
